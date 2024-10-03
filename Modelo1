@@ -1,7 +1,7 @@
 # Instalamos sys, os, qgis, QgsNativeAlgorithms
 
 # Definimos las rutas para los inputs y los outputs del modelo
-mainpath = "C:/Documents/ME-UNLP/1er Trimestre/Economía Pública"
+mainpath = "C:/Documents/ME-UNLP/1er Trimestre/SIC/QGIS"
 wldsin = "{}/langa.shp".format(mainpath)
 outpath = "{}/_output/".format(mainpath)
 wldsout = "{}/wlds_cleaned.shp".format(outpath)
